@@ -1,6 +1,6 @@
 #**********************************************************************
-# 07.06
-# 2020年7月6日21:15:03
+# 09.20
+# 2020年9月20日11:23:27
 # 转载需要注明版权和来源
 # 全部规则来自GFWList 没有白名单
 #
@@ -24,6 +24,7 @@
 (^|\.)cccat\.io$
 (^|\.)cloudcone\.com$
 (^|\.)gameloft\.com$
+(^|\.)garena\.com$
 (^|\.)inoreader\.com$
 (^|\.)ip138\.com$
 (^|\.)ping\.pe$
@@ -5853,6 +5854,8 @@
 (^|\.)bbc\.com$
 
 # Discord
+(^|\.)discord\.co$
+(^|\.)discord\.com$
 (^|\.)discord\.gg$
 (^|\.)discord\.media$
 (^|\.)discordapp\.com$
@@ -6128,6 +6131,7 @@
 # Steam
 (^|\.)fanatical\.com$
 (^|\.)humblebundle\.com$
+(^|\.)steam-chat\.com$
 (^|\.)steamcommunity\.com$
 (^|\.)steampowered\.com$
 (^|\.)steamstatic\.com$
@@ -6174,6 +6178,20 @@
 158.85.224.160/27
 75.126.150.0/16
 69.171.235.0/16
+
+# Wikipedia 维基相关域名
+(^|\.)mediawiki\.org$
+(^|\.)wikibooks\.org$
+(^|\.)wikidata\.org$
+(^|\.)wikileaks\.org$
+(^|\.)wikimedia\.org$
+(^|\.)wikinews\.org$
+(^|\.)wikipedia\.org$
+(^|\.)wikiquote\.org$
+(^|\.)wikisource\.org$
+(^|\.)wikiversity\.org$
+(^|\.)wikivoyage\.org$
+(^|\.)wiktionary\.org$
 
 #飞流直播
 (^|\.)neulion\.com$

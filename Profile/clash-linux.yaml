@@ -1,0 +1,374 @@
+##### Global #####
+socks-port: 1080
+port: 10801
+redir-port: 10086
+
+allow-lan: true
+bind-address: '*'
+ipv6: false
+
+mode: rule
+log-level: info
+
+external-controller: 10.15.44.55:8008
+external-ui: ui
+secret: "12138"
+
+
+
+##### DNS #####
+hosts:
+  jimmy-PC: 127.0.0.1
+  JMF: 10.15.44.19
+  vmubuntu: 10.15.44.55
+  
+dns:
+  enable: false
+  listen: 0.0.0.0:53
+  ipv6: false
+  default-nameserver:
+    - 223.6.6.6
+    - 1.1.1.1
+  enhanced-mode: redir-host #fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - '*.lan'
+    - localhost.ptlogin2.qq.com
+  nameserver:
+    - 223.6.6.6
+    - 1.1.1.1
+    - tls://dns.rubyfish.cn:853
+    - https://1.1.1.1/dns-query
+    - tcp://208.67.222.222:443
+  fallback:
+    - tls://8.8.8.8:853
+    - https://1.1.1.1/dns-query
+    - tcp://208.67.222.222:443
+  fallback-filter:
+    geoip: true
+    ipcidr:
+      - 240.0.0.0/4
+
+
+
+##### Proxy && Proxy Providers #####
+proxies:
+  - name: "洛杉矶-BWH"
+    type: ss
+    server: la.imhaoren.com
+    port: 443
+    cipher: chacha20-ietf-poly1305
+    password: jmf12138@.com
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+      tls: true
+      skip-cert-verify: true
+      host: la.imhaoren.com
+      path: "/ss"
+      mux: true
+      #headers:
+        #custom: value
+
+  - name: "香港-DMIT"
+    type: vmess
+    server: hk.gaormb.com
+    port: 443
+    uuid: 0605c71f-e2c5-46f6-8bea-a4a9d51bcfb4
+    alterId: 22
+    cipher: auto
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: hk.gaormb.com
+    network: ws
+    ws-path: /vv
+    ws-headers:
+    Host: hk.gaormb.com
+
+  - name: "洛杉矶-GGC"
+    type: trojan
+    server: la.gaormb.com
+    port: 443
+    password: jmf12138@.com
+    udp: true
+    sni: la.gaormb.com
+    alpn:
+      - h2
+      - http/1.1
+    skip-cert-verify: true
+
+
+proxy-providers:
+  FLY:
+    type: http
+    path: /etc/clash/sub/fly.yaml
+    url: http://106.15.198.191:8080/pan/api/public/dl/K84Rqiug/fly.yaml
+    interval: 3600
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 300
+
+  HK:
+    type: http
+    path: /etc/clash/sub/hk.yaml
+    url: http://106.15.198.191:8080/pan/api/public/dl/D6-zmFfb/hk.yaml
+    interval: 3600
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 300
+
+  SG:
+    type: http
+    path: /etc/clash/sub/sg.yaml
+    url: http://106.15.198.191:8080/pan/api/public/dl/u9kS1cCQ/sg.yaml
+    interval: 3600
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 300
+
+  JP:
+    type: http
+    path: /etc/clash/sub/jp.yaml
+    url: http://106.15.198.191:8080/pan/api/public/dl/JcszvjMY/jp.yaml
+    interval: 3600
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 300
+
+  US:
+    type: http
+    path: /etc/clash/sub/us.yaml
+    url: http://106.15.198.191:8080/pan/api/public/dl/bK2xQxHH/us.yaml
+    interval: 3600
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 300
+
+
+
+##### Proxy Group #####
+proxy-groups:
+  - name: 🚌自建节点
+    type: select
+    proxies:
+      - 洛杉矶-BWH
+      - 香港-DMIT
+      - 洛杉矶-GGC
+
+  - name: ✈️订阅节点
+    type: select
+    use:
+      - FLY
+      
+  - name: 🇭🇰香港路线
+    type: select
+    proxies:
+      - 香港-DMIT
+    use:
+      - HK
+
+  - name: 🇸🇬新加坡路线
+    type: select
+    use:
+      - SG
+
+  - name: 🇯🇵日本路线
+    type: select
+    use:
+      - JP 
+
+  - name: 🇺🇸美国路线
+    type: select
+    proxies:
+      - 洛杉矶-BWH
+      - 洛杉矶-GGC
+    use:
+      - US
+
+  - name: 🤖自动
+    type: url-test
+    proxies:
+      - 香港-DMIT
+    use:
+      - HK
+    url: 'http://www.gstatic.com/generate_204'
+    interval: 300
+
+  - name: ⚖️负载均衡
+    type: load-balance
+    proxies:
+      - 洛杉矶-BWH
+      - 洛杉矶-GGC
+    url: 'http://www.gstatic.com/generate_204'
+    interval: 300
+
+  - name: 🚀代理
+    type: select
+    proxies:
+      - 🚌自建节点
+      - ✈️订阅节点
+      - 🇭🇰香港路线
+      - 🇸🇬新加坡路线
+      - 🇯🇵日本路线
+      - 🇺🇸美国路线
+      - 🤖自动
+      - ⚖️负载均衡
+
+  - name: 🎯直连
+    type: select
+    proxies:
+      - DIRECT
+ 
+  - name: 🛡️拦截
+    type: select
+    proxies:
+      - REJECT
+
+  - name: 🕹默认策略
+    type: select
+    proxies:
+      - 🎯直连  #黑名单模式
+      - 🚀代理  #白名单模式
+
+  - name: 🐤Twitter
+    type: select
+    proxies:
+      - 🇸🇬新加坡路线
+      - 🚀代理
+
+  - name: 🍏Apple
+    type: select
+    proxies:
+      - 🇭🇰香港路线
+      - 🚀代理
+      - 🎯直连
+
+  - name: 📨Telegram
+    type: select
+    proxies:
+      - 🇺🇸美国路线
+      - 🇸🇬新加坡路线
+      - 🚀代理
+
+
+
+##### Rule #####
+rule-providers:
+  🌎Global:
+    type: http
+    behavior: classical
+    path: /etc/clash/rule/Global.yaml
+    url: https://gitee.com/jimmyrealfun/Rule/raw/master/Clash/Global.yaml
+    interval: 86400
+
+  🎞Streaming:
+    type: http
+    behavior: classical
+    path: /etc/clash/rule/Streaming.yaml
+    url: https://gitee.com/jimmyrealfun/Rule/raw/master/Clash/Streaming.yaml
+    interval: 86400
+
+  🐼China:
+    type: http
+    behavior: classical
+    path: /etc/clash/rule/China.yaml
+    url: https://gitee.com/jimmyrealfun/Rule/raw/master/Clash/China.yaml
+    interval: 86400
+
+  🏳️ChinaIP:
+    type: http
+    behavior: ipcidr
+    path: /etc/clash/rule/ChinaIP.yaml
+    url: https://gitee.com/jimmyrealfun/Rule/raw/master/Clash/ChinaIP.yaml
+    interval: 86400
+
+  🏴GFWIP:
+    type: http
+    behavior: ipcidr
+    path: /etc/clash/rule/IP-Blackhole.yaml
+    url: https://gitee.com/jimmyrealfun/Rule/raw/master/Clash/IP-Blackhole.yaml
+    interval: 86400
+  
+  🚧AD:
+    type: http
+    behavior: classical
+    path: /etc/clash/rule/Advertising.yaml
+    url: https://gitee.com/jimmyrealfun/Rule/raw/master/Clash/Advertising.yaml
+    interval: 86400
+    
+  🚧Hijack:
+    type: http
+    behavior: classical
+    path: /etc/clash/rule/Hijacking.yaml
+    url: https://gitee.com/jimmyrealfun/Rule/raw/master/Clash/Hijacking.yaml
+    interval: 86400
+
+  🕊️Twitter:
+    type: http
+    behavior: classical
+    path: /etc/clash/rule/Twitter.yaml
+    url: https://gitee.com/jimmyrealfun/Rule/raw/master/Clash/Twitter.yaml
+    interval: 86400
+
+  🍎Apple:
+    type: http
+    behavior: classical
+    path: /etc/clash/rule/Apple.yaml
+    url: https://gitee.com/jimmyrealfun/Rule/raw/master/Clash/Apple.yaml
+    interval: 86400
+
+  ✉️Telegram:
+    type: http
+    behavior: classical
+    path: /etc/clash/rule/Telegram.yaml
+    url: https://gitee.com/jimmyrealfun/Rule/raw/master/Clash/Telegram.yaml
+    interval: 86400
+    
+
+
+##### Traffic By Rules #####
+rules:
+  #局域网
+  - IP-CIDR,192.168.0.0/16,🎯直连
+  - IP-CIDR,10.0.0.0/8,🎯直连
+  - IP-CIDR,172.16.0.0/12,🎯直连
+  - IP-CIDR,127.0.0.0/8,🎯直连
+  - IP-CIDR,100.64.0.0/10,🎯直连
+  - IP-CIDR,224.0.0.0/4,🎯直连
+  - IP-CIDR,240.0.0.0/4,🎯直连
+  - IP-CIDR,255.255.255.255/32,🎯直连
+
+  #DNS
+  - IP-CIDR,8.8.8.8/32,🚀代理
+  - IP-CIDR,8.8.4.4/32,🚀代理
+  - IP-CIDR,1.1.1.1/32,🚀代理
+  - IP-CIDR,1.0.0.1/32,🚀代理
+  - IP-CIDR,104.16.249.249/32,🚀代理
+  - IP-CIDR,208.67.222.222/32,🚀代理
+  
+  #后加
+  - DOMAIN-SUFFIX,smzdm.com,🚀代理
+  - DOMAIN-SUFFIX,mysql.com,🚀代理
+
+  #服务
+  - RULE-SET,🕊️Twitter,🐤Twitter
+  - RULE-SET,✉️Telegram,📨Telegram
+  
+  #订阅规则
+  - RULE-SET,🚧AD,🛡️拦截
+  - RULE-SET,🚧Hijack,🛡️拦截
+  - RULE-SET,🌎Global,🚀代理
+  - RULE-SET,🍎Apple,🍏Apple #建议放置在代理和直连之间，global中有让apple走代理，但是如果想让apple服务都走代理，该策略中选代理即可
+  - RULE-SET,🐼China,🎯直连
+  - RULE-SET,🎞Streaming,🚀代理
+  - RULE-SET,🏴GFWIP,🚀代理
+  - RULE-SET,🏳️ChinaIP,🎯直连
+
+  #黑白名单
+  - MATCH,🕹默认策略

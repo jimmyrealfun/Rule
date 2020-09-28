@@ -373,15 +373,15 @@ DOMAIN-SUFFIX,totheglory.im,Policy
 DOMAIN-SUFFIX,trontv.com,Policy
 # TeamViewer
 DOMAIN-SUFFIX,teamviewer.com,Policy
-IP-CIDR,109.239.140.0/24,no-resolve,Policy
-IP-CIDR,139.220.243.27/32,no-resolve,Policy
-IP-CIDR,172.16.102.56/32,no-resolve,Policy
-IP-CIDR,185.188.32.1/28,no-resolve,Policy
-IP-CIDR,221.226.128.146/32,no-resolve,Policy
-IP-CIDR6,2a0b:b580::/48,no-resolve,Policy
-IP-CIDR6,2a0b:b581::/48,no-resolve,Policy
-IP-CIDR6,2a0b:b582::/48,no-resolve,Policy
-IP-CIDR6,2a0b:b583::/48,no-resolve,Policy
+IP-CIDR,109.239.140.0/24,Policy
+IP-CIDR,139.220.243.27/32,Policy
+IP-CIDR,172.16.102.56/32,Policy
+IP-CIDR,185.188.32.1/28,Policy
+IP-CIDR,221.226.128.146/32,Policy
+IP-CIDR6,2a0b:b580::/48,Policy
+IP-CIDR6,2a0b:b581::/48,Policy
+IP-CIDR6,2a0b:b582::/48,Policy
+IP-CIDR6,2a0b:b583::/48,Policy
 # Public Direct CDN 公共直连
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
 #DOMAIN-SUFFIX,ajax.cloudflare.com

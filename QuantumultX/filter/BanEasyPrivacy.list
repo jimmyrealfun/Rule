@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-09-20 11:22:54
-# 数量：2649条
+# 更新：2020-10-07 21:32:23
+# 数量：2682条
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk,Policy
 DOMAIN-SUFFIX,0x1f4b0.com,Policy
 DOMAIN-SUFFIX,1l-hit.mail.ru,Policy
@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,acookie.alibaba.com,Policy
 DOMAIN-SUFFIX,act.acotedemoi.com,Policy
 DOMAIN-SUFFIX,activities.niagara.comedycentral.com,Policy
 DOMAIN-SUFFIX,activity.frequency.com,Policy
+DOMAIN-SUFFIX,ad-log.dable.io,Policy
 DOMAIN-SUFFIX,ad.daum.net,Policy
 DOMAIN-SUFFIX,ad7.bigmir.net,Policy
 DOMAIN-SUFFIX,adc-js.nine.com.au,Policy
@@ -49,6 +50,7 @@ DOMAIN-SUFFIX,adtm.chip.de,Policy
 DOMAIN-SUFFIX,adv-sv-stat.focus.cn,Policy
 DOMAIN-SUFFIX,adv.drtuber.com,Policy
 DOMAIN-SUFFIX,advancedtracker.appspot.com,Policy
+DOMAIN-SUFFIX,aem-collector.daumkakao.io,Policy
 DOMAIN-SUFFIX,aevents.izooto.com,Policy
 DOMAIN-SUFFIX,affilate.hh.ru,Policy
 DOMAIN-SUFFIX,affiliate.iamplify.com,Policy
@@ -151,6 +153,7 @@ DOMAIN-SUFFIX,analytics.kaggle.io,Policy
 DOMAIN-SUFFIX,analytics.kaltura.com,Policy
 DOMAIN-SUFFIX,analytics.kapost.com,Policy
 DOMAIN-SUFFIX,analytics.ladmedia.fr,Policy
+DOMAIN-SUFFIX,analytics.linktr.ee,Policy
 DOMAIN-SUFFIX,analytics.live.com,Policy
 DOMAIN-SUFFIX,analytics.liveact.cri-mw.jp,Policy
 DOMAIN-SUFFIX,analytics.livestream.com,Policy
@@ -297,6 +300,7 @@ DOMAIN-SUFFIX,audit.median.hu,Policy
 DOMAIN-SUFFIX,audit.pcadvisor.co.uk,Policy
 DOMAIN-SUFFIX,authcaptcha.com,Policy
 DOMAIN-SUFFIX,awaps.yandex.net,Policy
+DOMAIN-SUFFIX,awesome.section.io,Policy
 DOMAIN-SUFFIX,ax.idg.se,Policy
 DOMAIN-SUFFIX,axislogger.appspot.com,Policy
 DOMAIN-SUFFIX,azg1.emalu-store.com,Policy
@@ -480,6 +484,7 @@ DOMAIN-SUFFIX,clk.about.com,Policy
 DOMAIN-SUFFIX,clk.boulanger.com,Policy
 DOMAIN-SUFFIX,clkstat.china.cn,Policy
 DOMAIN-SUFFIX,clkstat.qihoo.com,Policy
+DOMAIN-SUFFIX,clouderrorreporting.googleapis.com,Policy
 DOMAIN-SUFFIX,cloudfront-labs.amazonaws.com,Policy
 DOMAIN-SUFFIX,cls7.theushuaiaexperience.com,Policy
 DOMAIN-SUFFIX,clvk.viki.io,Policy
@@ -566,6 +571,7 @@ DOMAIN-SUFFIX,consent.inm.ie,Policy
 DOMAIN-SUFFIX,contadores.bolsamania.com,Policy
 DOMAIN-SUFFIX,contadores.miarroba.com,Policy
 DOMAIN-SUFFIX,contadores.miarroba.es,Policy
+DOMAIN-SUFFIX,contents-tracking.beop.io,Policy
 DOMAIN-SUFFIX,conversions.genieventures.co.uk,Policy
 DOMAIN-SUFFIX,convsgmp.taboola.com,Policy
 DOMAIN-SUFFIX,cookies.livepartners.com,Policy
@@ -647,6 +653,7 @@ DOMAIN-SUFFIX,csi.gstatic.com,Policy
 DOMAIN-SUFFIX,csp-collector.appspot.com,Policy
 DOMAIN-SUFFIX,csp.archant.co.uk,Policy
 DOMAIN-SUFFIX,csr.onet.pl,Policy
+DOMAIN-SUFFIX,cstats.sankakucomplex.com,Policy
 DOMAIN-SUFFIX,ct.needlive.com,Policy
 DOMAIN-SUFFIX,ct.pinterest.com,Policy
 DOMAIN-SUFFIX,ct5m.citadium.com,Policy
@@ -678,12 +685,14 @@ DOMAIN-SUFFIX,data.minute.ly,Policy
 DOMAIN-SUFFIX,data.queryly.com,Policy
 DOMAIN-SUFFIX,data.reactandshare.com,Policy
 DOMAIN-SUFFIX,data.studybreakmedia.com,Policy
+DOMAIN-SUFFIX,data.woosmap.com,Policy
 DOMAIN-SUFFIX,data.younow.com,Policy
 DOMAIN-SUFFIX,datadog-service.mvfglobal.com,Policy
 DOMAIN-SUFFIX,dbex-tracker-v2.driveback.ru,Policy
 DOMAIN-SUFFIX,dc.banggood.com,Policy
 DOMAIN-SUFFIX,dc.letv.com,Policy
 DOMAIN-SUFFIX,dccss.banggood.com,Policy
+DOMAIN-SUFFIX,dd.nytimes.com,Policy
 DOMAIN-SUFFIX,de-mi-nis-ner.info,Policy
 DOMAIN-SUFFIX,de-mi-nis-ner2.info,Policy
 DOMAIN-SUFFIX,de-ner-mi-nis4.info,Policy
@@ -803,6 +812,7 @@ DOMAIN-SUFFIX,encoderfarmstatsnew.servicebus.windows.net,Policy
 DOMAIN-SUFFIX,encoding.ovh,Policy
 DOMAIN-SUFFIX,enfieldindependent-gb.enfieldindependent.co.uk,Policy
 DOMAIN-SUFFIX,engage-cdn.schibsted.media,Policy
+DOMAIN-SUFFIX,engagefront.meteomedia.com,Policy
 DOMAIN-SUFFIX,engagefront.theweathernetwork.com,Policy
 DOMAIN-SUFFIX,enlightenment.secureshoppingbasket.com,Policy
 DOMAIN-SUFFIX,ens.luzernerzeitung.ch,Policy
@@ -855,6 +865,7 @@ DOMAIN-SUFFIX,eventlog.jackpot.de,Policy
 DOMAIN-SUFFIX,eventlogger.soundcloud.com,Policy
 DOMAIN-SUFFIX,events.air.tv,Policy
 DOMAIN-SUFFIX,events.apester.com,Policy
+DOMAIN-SUFFIX,events.attentivemobile.com,Policy
 DOMAIN-SUFFIX,events.avantisvideo.com,Policy
 DOMAIN-SUFFIX,events.brightline.tv,Policy
 DOMAIN-SUFFIX,events.chaordicsystems.com,Policy
@@ -865,6 +876,7 @@ DOMAIN-SUFFIX,events.ingatlan.com,Policy
 DOMAIN-SUFFIX,events.izooto.com,Policy
 DOMAIN-SUFFIX,events.jora.com,Policy
 DOMAIN-SUFFIX,events.jotform.com,Policy
+DOMAIN-SUFFIX,events.matterport.com,Policy
 DOMAIN-SUFFIX,events.medio.com,Policy
 DOMAIN-SUFFIX,events.ocdn.eu,Policy
 DOMAIN-SUFFIX,events.practo.com,Policy
@@ -900,6 +912,7 @@ DOMAIN-SUFFIX,filament-stats.herokuapp.com,Policy
 DOMAIN-SUFFIX,filmoljupci.com,Policy
 DOMAIN-SUFFIX,fimg-resp.seznam.cz,Policy
 DOMAIN-SUFFIX,firebaselogging.googleapis.com,Policy
+DOMAIN-SUFFIX,fkrkkmxsqeb5bj9r.s3.amazonaws.com,Policy
 DOMAIN-SUFFIX,flashstats.libsyn.com,Policy
 DOMAIN-SUFFIX,fog.pixual.co,Policy
 DOMAIN-SUFFIX,footprint.anetwork.ir,Policy
@@ -929,7 +942,18 @@ DOMAIN-SUFFIX,g.siliconweek.es,Policy
 DOMAIN-SUFFIX,g.vev.io,Policy
 DOMAIN-SUFFIX,g.yccdn.com,Policy
 DOMAIN-SUFFIX,g1thub.com,Policy
+DOMAIN-SUFFIX,g2178927685.co,Policy
+DOMAIN-SUFFIX,g2377012020.co,Policy
+DOMAIN-SUFFIX,g2575096355.co,Policy
+DOMAIN-SUFFIX,g2773180690.co,Policy
+DOMAIN-SUFFIX,g2971265025.co,Policy
 DOMAIN-SUFFIX,g2insights-cdn.azureedge.net,Policy
+DOMAIN-SUFFIX,g3169349360.co,Policy
+DOMAIN-SUFFIX,g3367433695.co,Policy
+DOMAIN-SUFFIX,g3565518030.co,Policy
+DOMAIN-SUFFIX,g3763602365.co,Policy
+DOMAIN-SUFFIX,g3961686700.co,Policy
+DOMAIN-SUFFIX,g4159771035.co,Policy
 DOMAIN-SUFFIX,g4p.redtram.com,Policy
 DOMAIN-SUFFIX,ga-beacon.appspot.com,Policy
 DOMAIN-SUFFIX,ga.canoe.ca,Policy
@@ -1093,7 +1117,6 @@ DOMAIN-SUFFIX,irqs.ioam.de,Policy
 DOMAIN-SUFFIX,is.base.de,Policy
 DOMAIN-SUFFIX,itracking.fccinteractive.com,Policy
 DOMAIN-SUFFIX,javascriptcounter.appspot.com,Policy
-DOMAIN-SUFFIX,jcm.jd.com,Policy
 DOMAIN-SUFFIX,jelly.mdhv.io,Policy
 DOMAIN-SUFFIX,jppolid-track.trackprod.integration.jppol.dk,Policy
 DOMAIN-SUFFIX,k.rueducommerce.fr,Policy
@@ -1109,9 +1132,11 @@ DOMAIN-SUFFIX,kitchen.juicer.cc,Policy
 DOMAIN-SUFFIX,knutsfordguardian-gb.knutsfordguardian.co.uk,Policy
 DOMAIN-SUFFIX,kropka.onet.pl,Policy
 DOMAIN-SUFFIX,ktracker.kumparan.com,Policy
+DOMAIN-SUFFIX,kyson.kakao.com,Policy
 DOMAIN-SUFFIX,l.m.naver.com,Policy
 DOMAIN-SUFFIX,l.ooyala.com,Policy
 DOMAIN-SUFFIX,l.player.ooyala.com,Policy
+DOMAIN-SUFFIX,l.popin.cc,Policy
 DOMAIN-SUFFIX,l.sharethis.com,Policy
 DOMAIN-SUFFIX,la-sync.taboola.com,Policy
 DOMAIN-SUFFIX,laas.americanexpress.com,Policy
@@ -1173,6 +1198,7 @@ DOMAIN-SUFFIX,log.optimizely.com,Policy
 DOMAIN-SUFFIX,log.outbrain.com,Policy
 DOMAIN-SUFFIX,log.outbrainimg.com,Policy
 DOMAIN-SUFFIX,log.pinterest.com,Policy
+DOMAIN-SUFFIX,log.popin.cc,Policy
 DOMAIN-SUFFIX,log.prezi.com,Policy
 DOMAIN-SUFFIX,log.ren.tv,Policy
 DOMAIN-SUFFIX,log.seekda.com,Policy
@@ -1207,7 +1233,6 @@ DOMAIN-SUFFIX,logs-api.shoprunner.com,Policy
 DOMAIN-SUFFIX,logs-qos.tf1.fr,Policy
 DOMAIN-SUFFIX,logs.51cto.com,Policy
 DOMAIN-SUFFIX,logs.dashlane.com,Policy
-DOMAIN-SUFFIX,logs.datadoghq.com,Policy
 DOMAIN-SUFFIX,logs.datadoghq.eu,Policy
 DOMAIN-SUFFIX,logs.gaana.com,Policy
 DOMAIN-SUFFIX,logs.ggweb.nl,Policy
@@ -1376,6 +1401,7 @@ DOMAIN-SUFFIX,oms.expedia.com,Policy
 DOMAIN-SUFFIX,omt.shinobi.jp,Policy
 DOMAIN-SUFFIX,oneid.mmstat.com,Policy
 DOMAIN-SUFFIX,onespot-tracking.herokuapp.com,Policy
+DOMAIN-SUFFIX,oops.redditmedia.com,Policy
 DOMAIN-SUFFIX,open.delivery.net,Policy
 DOMAIN-SUFFIX,open.mkt1397.com,Policy
 DOMAIN-SUFFIX,ophan.theguardian.com,Policy
@@ -1526,6 +1552,7 @@ DOMAIN-SUFFIX,pt.ispot.tv,Policy
 DOMAIN-SUFFIX,ptracker.nurturehq.com,Policy
 DOMAIN-SUFFIX,ptsc.shoplocal.com,Policy
 DOMAIN-SUFFIX,pub.sheknows.com,Policy
+DOMAIN-SUFFIX,purr.nytimes.com,Policy
 DOMAIN-SUFFIX,pv.hd.sohu.com,Policy
 DOMAIN-SUFFIX,pv.ltn.com.tw,Policy
 DOMAIN-SUFFIX,pv.pjtsu.com,Policy
@@ -1603,6 +1630,7 @@ DOMAIN-SUFFIX,richmondandtwickenhamtimes-gb.richmondandtwickenhamtimes.co.uk,Pol
 DOMAIN-SUFFIX,risk.clearbit.com,Policy
 DOMAIN-SUFFIX,rl.heise.de,Policy
 DOMAIN-SUFFIX,rlinks.one.in,Policy
+DOMAIN-SUFFIX,rlog.popin.cc,Policy
 DOMAIN-SUFFIX,rok.com.com,Policy
 DOMAIN-SUFFIX,romseyadvertiser-gb.romseyadvertiser.co.uk,Policy
 DOMAIN-SUFFIX,rps-p2.rockpapershotgun.com,Policy
@@ -1689,6 +1717,7 @@ DOMAIN-SUFFIX,sitelife.ehow.com,Policy
 DOMAIN-SUFFIX,ski1.skiset.com,Policy
 DOMAIN-SUFFIX,slipstream.skyscanner.net,Policy
 DOMAIN-SUFFIX,sls2.loisirsencheres.com,Policy
+DOMAIN-SUFFIX,smetrics.centurylink.com,Policy
 DOMAIN-SUFFIX,smetrics.delta.com,Policy
 DOMAIN-SUFFIX,smrt.as,Policy
 DOMAIN-SUFFIX,snowplow.swm.digital,Policy
@@ -2052,6 +2081,7 @@ DOMAIN-SUFFIX,t.adlpo.com,Policy
 DOMAIN-SUFFIX,t.allmodern.com,Policy
 DOMAIN-SUFFIX,t.appsflyer.com,Policy
 DOMAIN-SUFFIX,t.av.st,Policy
+DOMAIN-SUFFIX,t.beop.io,Policy
 DOMAIN-SUFFIX,t.beopinion.com,Policy
 DOMAIN-SUFFIX,t.bimvid.com,Policy
 DOMAIN-SUFFIX,t.birchlane.com,Policy
@@ -2248,6 +2278,7 @@ DOMAIN-SUFFIX,track.hubspot.com,Policy
 DOMAIN-SUFFIX,track.juno.com,Policy
 DOMAIN-SUFFIX,track.kyoads.com,Policy
 DOMAIN-SUFFIX,track.leady.cz,Policy
+DOMAIN-SUFFIX,track.lexico.com,Policy
 DOMAIN-SUFFIX,track.mailerlite.com,Policy
 DOMAIN-SUFFIX,track.mopo.de,Policy
 DOMAIN-SUFFIX,track.mycliplister.com,Policy
@@ -2304,12 +2335,14 @@ DOMAIN-SUFFIX,tracker-id.cdiscount.com,Policy
 DOMAIN-SUFFIX,tracker.affiliate.iqoption.com,Policy
 DOMAIN-SUFFIX,tracker.affirm.com,Policy
 DOMAIN-SUFFIX,tracker.anandtech.com,Policy
+DOMAIN-SUFFIX,tracker.arc.io,Policy
 DOMAIN-SUFFIX,tracker.azet.sk,Policy
 DOMAIN-SUFFIX,tracker.beezup.com,Policy
 DOMAIN-SUFFIX,tracker.bestshopping.com,Policy
 DOMAIN-SUFFIX,tracker.bt.uol.com.br,Policy
 DOMAIN-SUFFIX,tracker.calameo.com,Policy
 DOMAIN-SUFFIX,tracker.cauly.co.kr,Policy
+DOMAIN-SUFFIX,tracker.cdnbye.com,Policy
 DOMAIN-SUFFIX,tracker.cds-tracking.com,Policy
 DOMAIN-SUFFIX,tracker.cpapath.com,Policy
 DOMAIN-SUFFIX,tracker.data-vp.com,Policy
@@ -2558,6 +2591,7 @@ DOMAIN-SUFFIX,visitping.rossel.be,Policy
 DOMAIN-SUFFIX,vmstats.varrando.com,Policy
 DOMAIN-SUFFIX,vnf4.belleetbio.com,Policy
 DOMAIN-SUFFIX,vnl1.voyage-prive.nl,Policy
+DOMAIN-SUFFIX,vortex.hulu.com,Policy
 DOMAIN-SUFFIX,vpf4.euskaltelofertas.com,Policy
 DOMAIN-SUFFIX,vppst.iltrovatore.it,Policy
 DOMAIN-SUFFIX,vry9.destinia.com,Policy
@@ -2577,7 +2611,6 @@ DOMAIN-SUFFIX,watfordobserver-gb.watfordobserver.co.uk,Policy
 DOMAIN-SUFFIX,watson.live.com,Policy
 DOMAIN-SUFFIX,wbdds.allocine.fr,Policy
 DOMAIN-SUFFIX,wblt.oui.sncf,Policy
-DOMAIN-SUFFIX,wcs.naver.com,Policy
 DOMAIN-SUFFIX,wdm.map24.com,Policy
 DOMAIN-SUFFIX,wdr9.inseec.com,Policy
 DOMAIN-SUFFIX,we.wecanimal.pt,Policy

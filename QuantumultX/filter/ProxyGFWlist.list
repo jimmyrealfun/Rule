@@ -1,6 +1,7 @@
 # 代理列表
 # MyList && Other
 DOMAIN-SUFFIX,1password.com,Policy
+DOMAIN-SUFFIX,adguard.org,Policy
 DOMAIN-SUFFIX,bit.no.com,Policy
 DOMAIN-SUFFIX,btlibrary.me,Policy
 DOMAIN-SUFFIX,cccat.io,Policy

@@ -553,7 +553,6 @@ DOMAIN-SUFFIX,r.browser.miui.com,Policy
 DOMAIN-SUFFIX,security.browser.miui.com,Policy
 DOMAIN-SUFFIX,shenghuo.xiaomi.com,Policy
 DOMAIN-SUFFIX,stat.pandora.xiaomi.com,Policy
-DOMAIN-SUFFIX,tracking.miui.com,Policy
 DOMAIN-SUFFIX,union.mi.com,Policy
 DOMAIN-SUFFIX,wtradv.market.xiaomi.com,Policy
 DOMAIN-SUFFIX,xmpush.xiaomi.com,Policy
@@ -1059,7 +1058,6 @@ DOMAIN-SUFFIX,dw.xcar.com.cn,Policy
 DOMAIN-SUFFIX,e.nexac.com,Policy
 DOMAIN-SUFFIX,eq.10jqka.com.cn,Policy
 DOMAIN-SUFFIX,exp.17wo.cn,Policy
-DOMAIN-SUFFIX,fund.10jqka.com.cn,Policy
 DOMAIN-SUFFIX,game.51yund.com,Policy
 DOMAIN-SUFFIX,ganjituiguang.ganji.com,Policy
 DOMAIN-SUFFIX,grand.ele.me,Policy

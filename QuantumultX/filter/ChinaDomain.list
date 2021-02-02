@@ -150,6 +150,7 @@ DOMAIN-SUFFIX,udache.com,Policy
 # Douyu 斗鱼
 DOMAIN-SUFFIX,douyu.com,Policy
 DOMAIN-SUFFIX,douyu.tv,Policy
+DOMAIN-SUFFIX,douyuscdn.com,Policy
 DOMAIN-SUFFIX,douyutv.com,Policy
 # Epic
 DOMAIN-SUFFIX,epicgames.com,Policy
@@ -262,11 +263,6 @@ DOMAIN-SUFFIX,playstation.net,Policy
 DOMAIN-SUFFIX,playstationnetwork.com,Policy
 DOMAIN-SUFFIX,sony.com,Policy
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com,Policy
-# Spark
-DOMAIN-SUFFIX,amplitude.com,Policy
-DOMAIN-SUFFIX,firebaseio.com,Policy
-DOMAIN-SUFFIX,hockeyapp.net,Policy
-DOMAIN-SUFFIX,smartmailcloud.com,Policy
 # SteamCN
 DOMAIN-SUFFIX,csgo.wmsj.cn,Policy
 DOMAIN-SUFFIX,dl.steam.ksyna.com,Policy
@@ -274,13 +270,14 @@ DOMAIN-SUFFIX,dota2.wmsj.cn,Policy
 DOMAIN-SUFFIX,st.dl.bscstorage.net,Policy
 DOMAIN-SUFFIX,st.dl.eccdnx.com,Policy
 DOMAIN-SUFFIX,st.dl.pinyuncloud.com,Policy
-DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,Policy
+DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net,Policy
 DOMAIN-SUFFIX,steamcontent.com,Policy
 DOMAIN-SUFFIX,steamgames.com,Policy
 DOMAIN-SUFFIX,steampowered.com.8686c.com,Policy
 DOMAIN-SUFFIX,steamstat.us,Policy
 DOMAIN-SUFFIX,steamstatic.com,Policy
 DOMAIN-SUFFIX,steamusercontent.com,Policy
+DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net,Policy
 # Tencent
 DOMAIN-SUFFIX,foxmail.com,Policy
 DOMAIN-SUFFIX,gtimg.com,Policy
@@ -338,6 +335,7 @@ DOMAIN-SUFFIX,zmzfile.com,Policy
 DOMAIN-KEYWORD,announce,Policy
 DOMAIN-KEYWORD,torrent,Policy
 DOMAIN-KEYWORD,tracker,Policy
+DOMAIN-SUFFIX,animebytes.tv,Policy
 DOMAIN-SUFFIX,animetorrents.me,Policy
 DOMAIN-SUFFIX,awesome-hd.me,Policy
 DOMAIN-SUFFIX,beitai.pt,Policy

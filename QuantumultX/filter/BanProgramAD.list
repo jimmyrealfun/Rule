@@ -28,7 +28,6 @@ DOMAIN-SUFFIX,nex.corp.163.com,Policy
 DOMAIN-SUFFIX,oimagea2.ydstatic.com,Policy
 DOMAIN-SUFFIX,pagechoice.net,Policy
 DOMAIN-SUFFIX,prom.gome.com.cn,Policy
-DOMAIN-SUFFIX,push.126.net,Policy
 DOMAIN-SUFFIX,qchannel0d.cn,Policy
 DOMAIN-SUFFIX,qt002x.corp.youdao.com,Policy
 DOMAIN-SUFFIX,rlogs.youdao.com,Policy
@@ -275,7 +274,6 @@ DOMAIN-SUFFIX,mobads-logs.baidu.com,Policy
 DOMAIN-SUFFIX,mobads.baidu.cn,Policy
 DOMAIN-SUFFIX,mobads.baidu.com,Policy
 DOMAIN-SUFFIX,mpro.baidu.com,Policy
-DOMAIN-SUFFIX,msite.baidu.com,Policy
 DOMAIN-SUFFIX,mtj.baidu.cn,Policy
 DOMAIN-SUFFIX,mtj.baidu.com,Policy
 DOMAIN-SUFFIX,neirong.baidu.com,Policy
@@ -455,8 +453,7 @@ DOMAIN-SUFFIX,policy.jd.com,Policy
 DOMAIN-SUFFIX,stat.m.jd.com,Policy
 # Kugou
 DOMAIN-SUFFIX,ads.service.kugou.com,Policy
-DOMAIN-SUFFIX,bssdl.kugou.com,Policy
-DOMAIN-SUFFIX,bssdlbig.kugou.com,Policy
+DOMAIN-SUFFIX,adsfile.bssdlbig.kugou.com,Policy
 DOMAIN-SUFFIX,d.kugou.com,Policy
 DOMAIN-SUFFIX,downmobile.kugou.com,Policy
 DOMAIN-SUFFIX,gad.kugou.com,Policy

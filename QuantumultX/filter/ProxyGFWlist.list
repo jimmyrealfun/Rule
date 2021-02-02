@@ -232,6 +232,7 @@ DOMAIN-SUFFIX,akademiye.org,Policy
 DOMAIN-SUFFIX,akamai.net,Policy
 DOMAIN-SUFFIX,akamaihd.net,Policy
 DOMAIN-SUFFIX,akamaistream.net,Policy
+DOMAIN-SUFFIX,akamaized.net,Policy
 DOMAIN-SUFFIX,akiba-online.com,Policy
 DOMAIN-SUFFIX,akiba-web.com,Policy
 DOMAIN-SUFFIX,akow.org,Policy
@@ -247,6 +248,7 @@ DOMAIN-SUFFIX,alhayat.com,Policy
 DOMAIN-SUFFIX,alicejapan.co.jp,Policy
 DOMAIN-SUFFIX,aliengu.com,Policy
 DOMAIN-SUFFIX,alkasir.com,Policy
+DOMAIN-SUFFIX,all4mom.org,Policy
 DOMAIN-SUFFIX,allcoin.com,Policy
 DOMAIN-SUFFIX,allconnected.co,Policy
 DOMAIN-SUFFIX,alldrawnsex.com,Policy
@@ -324,6 +326,7 @@ DOMAIN-SUFFIX,antiwave.net,Policy
 DOMAIN-SUFFIX,anws.gov.tw,Policy
 DOMAIN-SUFFIX,anyporn.com,Policy
 DOMAIN-SUFFIX,anysex.com,Policy
+DOMAIN-SUFFIX,ao3.org,Policy
 DOMAIN-SUFFIX,aobo.com.au,Policy
 DOMAIN-SUFFIX,aofriend.com,Policy
 DOMAIN-SUFFIX,aofriend.com.au,Policy
@@ -341,7 +344,7 @@ DOMAIN-SUFFIX,api.ai,Policy
 DOMAIN-SUFFIX,apiary.io,Policy
 DOMAIN-SUFFIX,apigee.com,Policy
 DOMAIN-SUFFIX,apk-dl.com,Policy
-DOMAIN-SUFFIX,apkdler.com,Policy
+DOMAIN-SUFFIX,apkcombo.com,Policy
 DOMAIN-SUFFIX,apkmirror.com,Policy
 DOMAIN-SUFFIX,apkmonk.com,Policy
 DOMAIN-SUFFIX,apkplz.com,Policy
@@ -360,7 +363,10 @@ DOMAIN-SUFFIX,archive.fo,Policy
 DOMAIN-SUFFIX,archive.is,Policy
 DOMAIN-SUFFIX,archive.li,Policy
 DOMAIN-SUFFIX,archive.org,Policy
+DOMAIN-SUFFIX,archive.ph,Policy
 DOMAIN-SUFFIX,archive.today,Policy
+DOMAIN-SUFFIX,archiveofourown.com,Policy
+DOMAIN-SUFFIX,archiveofourown.org,Policy
 DOMAIN-SUFFIX,archives.gov,Policy
 DOMAIN-SUFFIX,archives.gov.tw,Policy
 DOMAIN-SUFFIX,arctosia.com,Policy
@@ -691,6 +697,7 @@ DOMAIN-SUFFIX,cacnw.com,Policy
 DOMAIN-SUFFIX,cactusvpn.com,Policy
 DOMAIN-SUFFIX,cafepress.com,Policy
 DOMAIN-SUFFIX,cahr.org.tw,Policy
+DOMAIN-SUFFIX,caijinglengyan.com,Policy
 DOMAIN-SUFFIX,calameo.com,Policy
 DOMAIN-SUFFIX,calebelston.com,Policy
 DOMAIN-SUFFIX,calgarychinese.ca,Policy
@@ -703,6 +710,7 @@ DOMAIN-SUFFIX,cam4.com,Policy
 DOMAIN-SUFFIX,cam4.jp,Policy
 DOMAIN-SUFFIX,cam4.sg,Policy
 DOMAIN-SUFFIX,camfrog.com,Policy
+DOMAIN-SUFFIX,campaignforuyghurs.org,Policy
 DOMAIN-SUFFIX,cams.com,Policy
 DOMAIN-SUFFIX,cams.org.sg,Policy
 DOMAIN-SUFFIX,canadameet.com,Policy
@@ -737,7 +745,8 @@ DOMAIN-SUFFIX,cattt.com,Policy
 DOMAIN-SUFFIX,cbc.ca,Policy
 DOMAIN-SUFFIX,cbsnews.com,Policy
 DOMAIN-SUFFIX,cbtc.org.hk,Policy
-DOMAIN-SUFFIX,cccat.io,Policy
+DOMAIN-SUFFIX,cccat.cc,Policy
+DOMAIN-SUFFIX,cccat.co,Policy
 DOMAIN-SUFFIX,ccdtr.org,Policy
 DOMAIN-SUFFIX,cchere.com,Policy
 DOMAIN-SUFFIX,ccim.org,Policy
@@ -1154,6 +1163,8 @@ DOMAIN-SUFFIX,dipity.com,Policy
 DOMAIN-SUFFIX,directcreative.com,Policy
 DOMAIN-SUFFIX,discoins.com,Policy
 DOMAIN-SUFFIX,disconnect.me,Policy
+DOMAIN-SUFFIX,discord.com,Policy
+DOMAIN-SUFFIX,discord.gg,Policy
 DOMAIN-SUFFIX,discordapp.com,Policy
 DOMAIN-SUFFIX,discordapp.net,Policy
 DOMAIN-SUFFIX,discuss.com.hk,Policy
@@ -1240,6 +1251,7 @@ DOMAIN-SUFFIX,dtiblog.com,Policy
 DOMAIN-SUFFIX,dtic.mil,Policy
 DOMAIN-SUFFIX,dtwang.org,Policy
 DOMAIN-SUFFIX,duanzhihu.com,Policy
+DOMAIN-SUFFIX,dubox.com,Policy
 DOMAIN-SUFFIX,duck.com,Policy
 DOMAIN-SUFFIX,duckdns.org,Policy
 DOMAIN-SUFFIX,duckduckgo.com,Policy
@@ -1645,6 +1657,7 @@ DOMAIN-SUFFIX,freefuckvids.com,Policy
 DOMAIN-SUFFIX,freegao.com,Policy
 DOMAIN-SUFFIX,freehongkong.org,Policy
 DOMAIN-SUFFIX,freeilhamtohti.org,Policy
+DOMAIN-SUFFIX,freekazakhs.org,Policy
 DOMAIN-SUFFIX,freekwonpyong.org,Policy
 DOMAIN-SUFFIX,freelotto.com,Policy
 DOMAIN-SUFFIX,freeman2.com,Policy
@@ -1730,6 +1743,7 @@ DOMAIN-SUFFIX,g6hentai.com,Policy
 DOMAIN-SUFFIX,gabocorp.com,Policy
 DOMAIN-SUFFIX,gaeproxy.com,Policy
 DOMAIN-SUFFIX,gaforum.org,Policy
+DOMAIN-SUFFIX,gagaoolala.com,Policy
 DOMAIN-SUFFIX,galaxymacau.com,Policy
 DOMAIN-SUFFIX,galenwu.com,Policy
 DOMAIN-SUFFIX,galstars.net,Policy
@@ -1819,6 +1833,7 @@ DOMAIN-SUFFIX,git.io,Policy
 DOMAIN-SUFFIX,gitbooks.io,Policy
 DOMAIN-SUFFIX,github.com,Policy
 DOMAIN-SUFFIX,github.io,Policy
+DOMAIN-SUFFIX,githubassets.com,Policy
 DOMAIN-SUFFIX,githubusercontent.com,Policy
 DOMAIN-SUFFIX,gizlen.net,Policy
 DOMAIN-SUFFIX,gjczz.com,Policy
@@ -1844,6 +1859,7 @@ DOMAIN-SUFFIX,gmiddle.net,Policy
 DOMAIN-SUFFIX,gmll.org,Policy
 DOMAIN-SUFFIX,gmodules.com,Policy
 DOMAIN-SUFFIX,gnci.org.hk,Policy
+DOMAIN-SUFFIX,gnews.org,Policy
 DOMAIN-SUFFIX,go-pki.com,Policy
 DOMAIN-SUFFIX,go141.com,Policy
 DOMAIN-SUFFIX,goagent.biz,Policy
@@ -2154,6 +2170,7 @@ DOMAIN-SUFFIX,gs-discuss.com,Policy
 DOMAIN-SUFFIX,gstatic.com,Policy
 DOMAIN-SUFFIX,gtricks.com,Policy
 DOMAIN-SUFFIX,gts-vpn.com,Policy
+DOMAIN-SUFFIX,gtv.org,Policy
 DOMAIN-SUFFIX,gu-chu-sum.org,Policy
 DOMAIN-SUFFIX,guaguass.com,Policy
 DOMAIN-SUFFIX,guaguass.org,Policy
@@ -2233,6 +2250,7 @@ DOMAIN-SUFFIX,hellouk.org,Policy
 DOMAIN-SUFFIX,helpeachpeople.com,Policy
 DOMAIN-SUFFIX,helplinfen.com,Policy
 DOMAIN-SUFFIX,helpster.de,Policy
+DOMAIN-SUFFIX,helpuyghursnow.org,Policy
 DOMAIN-SUFFIX,helpzhuling.org,Policy
 DOMAIN-SUFFIX,hentai.to,Policy
 DOMAIN-SUFFIX,hentaitube.tv,Policy
@@ -2295,6 +2313,7 @@ DOMAIN-SUFFIX,hkci.org.hk,Policy
 DOMAIN-SUFFIX,hkcmi.edu,Policy
 DOMAIN-SUFFIX,hkcnews.com,Policy
 DOMAIN-SUFFIX,hkcoc.com,Policy
+DOMAIN-SUFFIX,hkctu.org.hk,Policy
 DOMAIN-SUFFIX,hkdailynews.com.hk,Policy
 DOMAIN-SUFFIX,hkday.net,Policy
 DOMAIN-SUFFIX,hkdf.org,Policy
@@ -2401,6 +2420,7 @@ DOMAIN-SUFFIX,huffingtonpost.com,Policy
 DOMAIN-SUFFIX,hugoroy.eu,Policy
 DOMAIN-SUFFIX,huhaitai.com,Policy
 DOMAIN-SUFFIX,huhamhire.com,Policy
+DOMAIN-SUFFIX,huhangfei.com,Policy
 DOMAIN-SUFFIX,huiyi.in,Policy
 DOMAIN-SUFFIX,hulkshare.com,Policy
 DOMAIN-SUFFIX,hulu.com,Policy
@@ -2484,6 +2504,7 @@ DOMAIN-SUFFIX,ihao.org,Policy
 DOMAIN-SUFFIX,iicns.com,Policy
 DOMAIN-SUFFIX,ikstar.com,Policy
 DOMAIN-SUFFIX,ikwb.com,Policy
+DOMAIN-SUFFIX,ilhamtohtiinstitute.org,Policy
 DOMAIN-SUFFIX,illusionfactory.com,Policy
 DOMAIN-SUFFIX,ilove80.be,Policy
 DOMAIN-SUFFIX,ilovelongtoes.com,Policy
@@ -2707,6 +2728,7 @@ DOMAIN-SUFFIX,jwmusic.org,Policy
 DOMAIN-SUFFIX,jyxf.net,Policy
 DOMAIN-SUFFIX,k-doujin.net,Policy
 DOMAIN-SUFFIX,ka-wai.com,Policy
+DOMAIN-SUFFIX,kadokawa.co.jp,Policy
 DOMAIN-SUFFIX,kagyu.org,Policy
 DOMAIN-SUFFIX,kagyu.org.za,Policy
 DOMAIN-SUFFIX,kagyumonlam.org,Policy
@@ -2947,6 +2969,7 @@ DOMAIN-SUFFIX,lvv2.com,Policy
 DOMAIN-SUFFIX,lyfhk.net,Policy
 DOMAIN-SUFFIX,lzmtnews.org,Policy
 DOMAIN-SUFFIX,m-sport.co.uk,Policy
+DOMAIN-SUFFIX,m-team.cc,Policy
 DOMAIN-SUFFIX,m.me,Policy
 DOMAIN-SUFFIX,macgamestore.com,Policy
 DOMAIN-SUFFIX,macrovpn.com,Policy
@@ -3073,6 +3096,7 @@ DOMAIN-SUFFIX,mimiai.net,Policy
 DOMAIN-SUFFIX,mimivip.com,Policy
 DOMAIN-SUFFIX,mimivv.com,Policy
 DOMAIN-SUFFIX,mindrolling.org,Policy
+DOMAIN-SUFFIX,mingdemedia.org,Policy
 DOMAIN-SUFFIX,minghui-a.org,Policy
 DOMAIN-SUFFIX,minghui-b.org,Policy
 DOMAIN-SUFFIX,minghui-school.org,Policy
@@ -3175,6 +3199,7 @@ DOMAIN-SUFFIX,msn.com.tw,Policy
 DOMAIN-SUFFIX,mswe1.org,Policy
 DOMAIN-SUFFIX,mthruf.com,Policy
 DOMAIN-SUFFIX,mtw.tl,Policy
+DOMAIN-SUFFIX,mubi.com,Policy
 DOMAIN-SUFFIX,muchosucko.com,Policy
 DOMAIN-SUFFIX,mullvad.net,Policy
 DOMAIN-SUFFIX,multiply.com,Policy
@@ -3267,6 +3292,7 @@ DOMAIN-SUFFIX,nat.gov.tw,Policy
 DOMAIN-SUFFIX,nat.moe,Policy
 DOMAIN-SUFFIX,natado.com,Policy
 DOMAIN-SUFFIX,national-lottery.co.uk,Policy
+DOMAIN-SUFFIX,nationalawakening.org,Policy
 DOMAIN-SUFFIX,nationalgeographic.com,Policy
 DOMAIN-SUFFIX,nationsonline.org,Policy
 DOMAIN-SUFFIX,nationwide.com,Policy
@@ -3354,6 +3380,7 @@ DOMAIN-SUFFIX,ninjacloak.com,Policy
 DOMAIN-SUFFIX,ninjaproxy.ninja,Policy
 DOMAIN-SUFFIX,nintendium.com,Policy
 DOMAIN-SUFFIX,ninth.biz,Policy
+DOMAIN-SUFFIX,nitter.net,Policy
 DOMAIN-SUFFIX,niu.moe,Policy
 DOMAIN-SUFFIX,niusnews.com,Policy
 DOMAIN-SUFFIX,njactb.org,Policy
@@ -3503,6 +3530,7 @@ DOMAIN-SUFFIX,opendn.xyz,Policy
 DOMAIN-SUFFIX,openervpn.in,Policy
 DOMAIN-SUFFIX,openid.net,Policy
 DOMAIN-SUFFIX,openleaks.org,Policy
+DOMAIN-SUFFIX,opensource.google,Policy
 DOMAIN-SUFFIX,openvpn.net,Policy
 DOMAIN-SUFFIX,openvpn.org,Policy
 DOMAIN-SUFFIX,openwebster.com,Policy
@@ -3571,6 +3599,8 @@ DOMAIN-SUFFIX,paperb.us,Policy
 DOMAIN-SUFFIX,paradisehill.cc,Policy
 DOMAIN-SUFFIX,paradisepoker.com,Policy
 DOMAIN-SUFFIX,parkansky.com,Policy
+DOMAIN-SUFFIX,parler.com,Policy
+DOMAIN-SUFFIX,parsevideo.com,Policy
 DOMAIN-SUFFIX,partycasino.com,Policy
 DOMAIN-SUFFIX,partypoker.com,Policy
 DOMAIN-SUFFIX,passion.com,Policy
@@ -3769,6 +3799,7 @@ DOMAIN-SUFFIX,proyectoclubes.com,Policy
 DOMAIN-SUFFIX,prozz.net,Policy
 DOMAIN-SUFFIX,psblog.name,Policy
 DOMAIN-SUFFIX,pscp.tv,Policy
+DOMAIN-SUFFIX,pshvpn.com,Policy
 DOMAIN-SUFFIX,psiphon.ca,Policy
 DOMAIN-SUFFIX,psiphon3.com,Policy
 DOMAIN-SUFFIX,psiphontoday.com,Policy
@@ -3837,6 +3868,7 @@ DOMAIN-SUFFIX,r18.com,Policy
 DOMAIN-SUFFIX,ra.gg,Policy
 DOMAIN-SUFFIX,radicalparty.org,Policy
 DOMAIN-SUFFIX,radiko.jp,Policy
+DOMAIN-SUFFIX,radio.garden,Policy
 DOMAIN-SUFFIX,radioaustralia.net.au,Policy
 DOMAIN-SUFFIX,radiohilight.net,Policy
 DOMAIN-SUFFIX,radiotime.com,Policy
@@ -3879,6 +3911,7 @@ DOMAIN-SUFFIX,realcourage.org,Policy
 DOMAIN-SUFFIX,realitykings.com,Policy
 DOMAIN-SUFFIX,realraptalk.com,Policy
 DOMAIN-SUFFIX,realsexpass.com,Policy
+DOMAIN-SUFFIX,reason.com,Policy
 DOMAIN-SUFFIX,rebatesrule.net,Policy
 DOMAIN-SUFFIX,recaptcha.net,Policy
 DOMAIN-SUFFIX,recordhistory.org,Policy
@@ -3907,6 +3940,7 @@ DOMAIN-SUFFIX,renminbao.com,Policy
 DOMAIN-SUFFIX,renyurenquan.org,Policy
 DOMAIN-SUFFIX,rerouted.org,Policy
 DOMAIN-SUFFIX,resilio.com,Policy
+DOMAIN-SUFFIX,resistchina.org,Policy
 DOMAIN-SUFFIX,retweeteffect.com,Policy
 DOMAIN-SUFFIX,retweetist.com,Policy
 DOMAIN-SUFFIX,retweetrank.com,Policy
@@ -4106,6 +4140,7 @@ DOMAIN-SUFFIX,shkspr.mobi,Policy
 DOMAIN-SUFFIX,shodanhq.com,Policy
 DOMAIN-SUFFIX,shooshtime.com,Policy
 DOMAIN-SUFFIX,shop2000.com.tw,Policy
+DOMAIN-SUFFIX,shopee.tw,Policy
 DOMAIN-SUFFIX,shopping.com,Policy
 DOMAIN-SUFFIX,showhaotu.com,Policy
 DOMAIN-SUFFIX,showtime.jp,Policy
@@ -4282,6 +4317,7 @@ DOMAIN-SUFFIX,sstmlt.net,Policy
 DOMAIN-SUFFIX,stackoverflow.com,Policy
 DOMAIN-SUFFIX,stage64.hk,Policy
 DOMAIN-SUFFIX,standupfortibet.org,Policy
+DOMAIN-SUFFIX,standwithhk.org,Policy
 DOMAIN-SUFFIX,stanford.edu,Policy
 DOMAIN-SUFFIX,starfishfx.com,Policy
 DOMAIN-SUFFIX,starp2p.com,Policy
@@ -4464,6 +4500,7 @@ DOMAIN-SUFFIX,teddysun.com,Policy
 DOMAIN-SUFFIX,teeniefuck.net,Policy
 DOMAIN-SUFFIX,teensinasia.com,Policy
 DOMAIN-SUFFIX,telecomspace.com,Policy
+DOMAIN-SUFFIX,telegra.ph,Policy
 DOMAIN-SUFFIX,telegram.dog,Policy
 DOMAIN-SUFFIX,telegram.me,Policy
 DOMAIN-SUFFIX,telegram.org,Policy
@@ -4475,7 +4512,6 @@ DOMAIN-SUFFIX,tenacy.com,Policy
 DOMAIN-SUFFIX,tensorflow.org,Policy
 DOMAIN-SUFFIX,tenzinpalmo.com,Policy
 DOMAIN-SUFFIX,tew.org,Policy
-DOMAIN-SUFFIX,textnow.com,Policy
 DOMAIN-SUFFIX,textnow.me,Policy
 DOMAIN-SUFFIX,tfhub.dev,Policy
 DOMAIN-SUFFIX,thaicn.com,Policy
@@ -4541,7 +4577,6 @@ DOMAIN-SUFFIX,tianzhu.org,Policy
 DOMAIN-SUFFIX,tibet-envoy.eu,Policy
 DOMAIN-SUFFIX,tibet-foundation.org,Policy
 DOMAIN-SUFFIX,tibet-house-trust.co.uk,Policy
-DOMAIN-SUFFIX,tibet-info.net,Policy
 DOMAIN-SUFFIX,tibet-initiative.de,Policy
 DOMAIN-SUFFIX,tibet-munich.de,Policy
 DOMAIN-SUFFIX,tibet.a.se,Policy
@@ -4746,6 +4781,7 @@ DOMAIN-SUFFIX,turansam.org,Policy
 DOMAIN-SUFFIX,turbobit.net,Policy
 DOMAIN-SUFFIX,turbohide.com,Policy
 DOMAIN-SUFFIX,turbotwitter.com,Policy
+DOMAIN-SUFFIX,turkistantimes.com,Policy
 DOMAIN-SUFFIX,turntable.fm,Policy
 DOMAIN-SUFFIX,tushycash.com,Policy
 DOMAIN-SUFFIX,tutanota.com,Policy
@@ -5214,6 +5250,7 @@ DOMAIN-SUFFIX,wingamestore.com,Policy
 DOMAIN-SUFFIX,wingy.site,Policy
 DOMAIN-SUFFIX,winning11.com,Policy
 DOMAIN-SUFFIX,winwhispers.info,Policy
+DOMAIN-SUFFIX,wionews.com,Policy
 DOMAIN-SUFFIX,wire.com,Policy
 DOMAIN-SUFFIX,wiredbytes.com,Policy
 DOMAIN-SUFFIX,wiredpen.com,Policy
@@ -5625,6 +5662,25 @@ DOMAIN-SUFFIX,youtube.com,Policy
 DOMAIN-SUFFIX,ytimg.com,Policy
 IP-CIDR,74.125.0.0/16,Policy
 IP-CIDR,173.194.0.0/16,Policy
+# GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
+IP-CIDR,120.232.181.162/32,Policy
+IP-CIDR,120.241.147.226/32,Policy
+IP-CIDR,120.253.253.226/32,Policy
+IP-CIDR,120.253.255.162/32,Policy
+IP-CIDR,120.253.255.34/32,Policy
+IP-CIDR,120.253.255.98/32,Policy
+IP-CIDR,180.163.150.162/32,Policy
+IP-CIDR,180.163.150.34/32,Policy
+IP-CIDR,180.163.151.162/32,Policy
+IP-CIDR,180.163.151.34/32,Policy
+IP-CIDR,203.208.39.0/24,Policy
+IP-CIDR,203.208.40.0/24,Policy
+IP-CIDR,203.208.41.0/24,Policy
+IP-CIDR,203.208.43.0/24,Policy
+IP-CIDR,203.208.50.0/24,Policy
+IP-CIDR,220.181.174.162/32,Policy
+IP-CIDR,220.181.174.226/32,Policy
+IP-CIDR,220.181.174.34/32,Policy
 # Instagram
 DOMAIN-SUFFIX,cdninstagram.com,Policy
 DOMAIN-SUFFIX,instagram.com,Policy
@@ -5697,6 +5753,12 @@ DOMAIN-SUFFIX,ypncdn.com,Policy
 # Pixiv
 DOMAIN-SUFFIX,pixiv.net,Policy
 DOMAIN-SUFFIX,pximg.net,Policy
+# Spark
+DOMAIN-SUFFIX,amplitude.com,Policy
+DOMAIN-SUFFIX,firebaseio.com,Policy
+DOMAIN-SUFFIX,hockeyapp.net,Policy
+DOMAIN-SUFFIX,readdle.com,Policy
+DOMAIN-SUFFIX,smartmailcloud.com,Policy
 # Steam
 DOMAIN-SUFFIX,fanatical.com,Policy
 DOMAIN-SUFFIX,humblebundle.com,Policy
@@ -5704,6 +5766,9 @@ DOMAIN-SUFFIX,steam-chat.com,Policy
 DOMAIN-SUFFIX,steamcommunity.com,Policy
 DOMAIN-SUFFIX,steampowered.com,Policy
 DOMAIN-SUFFIX,steamstatic.com,Policy
+# TapTap
+DOMAIN-SUFFIX,tap.io,Policy
+DOMAIN-SUFFIX,taptap.tw,Policy
 # Twitch
 DOMAIN-SUFFIX,twitch.tv,Policy
 DOMAIN-SUFFIX,ttvnw.net,Policy

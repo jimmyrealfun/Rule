@@ -5,7 +5,6 @@ DOMAIN-KEYWORD,admaster,Policy
 DOMAIN-KEYWORD,adsage,Policy
 DOMAIN-KEYWORD,adsensor,Policy
 DOMAIN-KEYWORD,adservice,Policy
-DOMAIN-KEYWORD,adsh,Policy
 DOMAIN-KEYWORD,adsmogo,Policy
 DOMAIN-KEYWORD,adsrvmedia,Policy
 DOMAIN-KEYWORD,adsserving,Policy
@@ -18,8 +17,6 @@ DOMAIN-KEYWORD,domob,Policy
 DOMAIN-KEYWORD,duomeng,Policy
 DOMAIN-KEYWORD,dwtrack,Policy
 DOMAIN-KEYWORD,guanggao,Policy
-DOMAIN-KEYWORD,lianmeng,Policy
-DOMAIN-KEYWORD,monitor,Policy
 DOMAIN-KEYWORD,omgmta,Policy
 DOMAIN-KEYWORD,omniture,Policy
 DOMAIN-KEYWORD,openx,Policy
@@ -321,7 +318,6 @@ DOMAIN-SUFFIX,onetad.com,Policy
 DOMAIN-SUFFIX,optaim.com,Policy
 DOMAIN-SUFFIX,optimix.asia,Policy
 DOMAIN-SUFFIX,optimix.cn,Policy
-DOMAIN-SUFFIX,optimizely.com,Policy
 DOMAIN-SUFFIX,optimizelyapis.com,Policy
 DOMAIN-SUFFIX,overture.com,Policy
 DOMAIN-SUFFIX,p0y.cn,Policy

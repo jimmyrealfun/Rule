@@ -2,7 +2,6 @@ payload:
 #公司上网限制
 
   # Taobao
-  - DOMAIN-SUFFIX,soku.com
   - DOMAIN-SUFFIX,taobao.com
   - DOMAIN-SUFFIX,taobaocdn.com
   - DOMAIN-SUFFIX,tbcache.com
@@ -12,12 +11,11 @@ payload:
   - DOMAIN-SUFFIX,ucweb.com
   - DOMAIN-SUFFIX,xiami.com
   - DOMAIN-SUFFIX,xiami.net
-  - DOMAIN-SUFFIX,ykimg.com
-  - DOMAIN-SUFFIX,youku.com
   # Bilibili
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,acgvideo.com
   - DOMAIN-SUFFIX,b23.tv
+  - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,biliapi.com
   - DOMAIN-SUFFIX,biliapi.net
   - DOMAIN-SUFFIX,biligame.com
@@ -34,6 +32,21 @@ payload:
   - DOMAIN-SUFFIX,qiyi.com
   - DOMAIN-SUFFIX,qiyipic.com
   - DOMAIN-SUFFIX,qy.net
+  # Tecent Video
+  - DOMAIN-SUFFIX,video.qq.com
+  - DOMAIN-SUFFIX,i.qq.com
+  - DOMAIN-SUFFIX,v.qq.com
+  # Youku
+  - DOMAIN-SUFFIX,soku.com
+  - DOMAIN-SUFFIX,youku.com
+  - DOMAIN-SUFFIX,ykimg.com
+  # Sohu Video
+  - DOMAIN-SUFFIX,itc.cn
+  - DOMAIN-SUFFIX,sohu.com
+  # Migu Video
+  - DOMAIN-SUFFIX,cmvideo.cn
+  - DOMAIN-SUFFIX,miguvideo.com
+
   # JD
   - DOMAIN-SUFFIX,360buy.com
   - DOMAIN-SUFFIX,360buyimg.com
@@ -51,11 +64,32 @@ payload:
   - DOMAIN-SUFFIX,xiaomi.com
   - DOMAIN-SUFFIX,xiaomi.net
   - DOMAIN-SUFFIX,xiaomicp.com
+
+  # Music
+  # > QQ Music
+  - DOMAIN-SUFFIX,music.qq.com
+  - DOMAIN-SUFFIX,music.tc.qq.com
+  - DOMAIN-SUFFIX,qqmusic.qq.com
+  - DOMAIN-SUFFIX,tencentmusic.com
+  - DOMAIN-SUFFIX,y.qq.com
+  - DOMAIN,aqqmusic.tc.qq.com
+  - DOMAIN,moo.qq.com
+  # > China Music Corp
+  - DOMAIN-SUFFIX,kuwo.cn
+  - DOMAIN-SUFFIX,kugou.com
+  # > Netease Cloud Music
+  - DOMAIN-SUFFIX,music.163.com
+  - DOMAIN-SUFFIX,music.126.net
+  - DOMAIN,mam.netease.com
+  - DOMAIN,api.iplay.163.com
+  # > Qianqian Music
+  - DOMAIN-SUFFIX,qianqian.com
+  - DOMAIN-SUFFIX,taihe.com
+  # > Migu Music
+  - DOMAIN-SUFFIX,migu.cn
   # 其他
   - DOMAIN-SUFFIX,weibo.com
   - DOMAIN-SUFFIX,weibocdn.com
   - DOMAIN-SUFFIX,smzdm.com
   - DOMAIN,movie.douban.com
-  - DOMAIN,v.qq.com
-  - DOMAIN,music.qq.com
-  - DOMAIN,music.163.com
+

@@ -92,4 +92,5 @@ payload:
   - DOMAIN-SUFFIX,weibocdn.com
   - DOMAIN-SUFFIX,smzdm.com
   - DOMAIN,movie.douban.com
+  - DOMAIN-SUFFIX,vzuu.com
 

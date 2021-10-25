@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,msftauth.net,Policy
 DOMAIN-SUFFIX,msftauthimages.net,Policy
 DOMAIN-SUFFIX,msftidentity.com,Policy
 DOMAIN-SUFFIX,msidentity.com,Policy
+DOMAIN-SUFFIX,msn.cn,Policy
 DOMAIN-SUFFIX,msn.com,Policy
 DOMAIN-SUFFIX,msocdn.com,Policy
 DOMAIN-SUFFIX,msocsp.com,Policy

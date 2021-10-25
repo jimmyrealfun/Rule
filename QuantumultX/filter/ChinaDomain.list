@@ -1,5 +1,6 @@
 # 直连列表
 # MyList
+DOMAIN-SUFFIX,13th.tech,Policy
 DOMAIN-SUFFIX,423down.com,Policy
 DOMAIN-SUFFIX,bokecc.com,Policy
 DOMAIN-SUFFIX,chaipip.com,Policy
@@ -8,6 +9,9 @@ DOMAIN-SUFFIX,hrtsea.com,Policy
 DOMAIN-SUFFIX,kaikeba.com,Policy
 DOMAIN-SUFFIX,laomo.me,Policy
 DOMAIN-SUFFIX,mpyit.com,Policy
+DOMAIN-SUFFIX,msftconnecttest.com,Policy
+DOMAIN-SUFFIX,msftncsi.com,Policy
+DOMAIN-SUFFIX,qupu123.com,Policy
 # CN域名直连
 DOMAIN-SUFFIX,cn,Policy
 DOMAIN-SUFFIX,中国,Policy
@@ -55,6 +59,7 @@ DOMAIN-SUFFIX,alibaba.com,Policy
 DOMAIN-SUFFIX,alibabacloud.com,Policy
 DOMAIN-SUFFIX,alibabausercontent.com,Policy
 DOMAIN-SUFFIX,alicdn.com,Policy
+DOMAIN-SUFFIX,alicloudccp.com,Policy
 DOMAIN-SUFFIX,aliexpress.com,Policy
 DOMAIN-SUFFIX,aliimg.com,Policy
 DOMAIN-SUFFIX,alikunlun.com,Policy
@@ -64,6 +69,7 @@ DOMAIN-SUFFIX,alisoft.com,Policy
 DOMAIN-SUFFIX,aliyun.com,Policy
 DOMAIN-SUFFIX,aliyuncdn.com,Policy
 DOMAIN-SUFFIX,aliyuncs.com,Policy
+DOMAIN-SUFFIX,aliyundrive.com,Policy
 DOMAIN-SUFFIX,amap.com,Policy
 DOMAIN-SUFFIX,autonavi.com,Policy
 DOMAIN-SUFFIX,dingtalk.com,Policy
@@ -100,13 +106,19 @@ DOMAIN-SUFFIX,yunjiasu-cdn.net,Policy
 DOMAIN-SUFFIX,acg.tv,Policy
 DOMAIN-SUFFIX,acgvideo.com,Policy
 DOMAIN-SUFFIX,b23.tv,Policy
+DOMAIN-SUFFIX,bigfun.cn,Policy
+DOMAIN-SUFFIX,bigfunapp.cn,Policy
 DOMAIN-SUFFIX,biliapi.com,Policy
 DOMAIN-SUFFIX,biliapi.net,Policy
+DOMAIN-SUFFIX,bilibili.com,Policy
+DOMAIN-SUFFIX,bilibili.tv,Policy
 DOMAIN-SUFFIX,biligame.com,Policy
 DOMAIN-SUFFIX,biligame.net,Policy
 DOMAIN-SUFFIX,bilivideo.com,Policy
+DOMAIN-SUFFIX,bilivideo.cn,Policy
 DOMAIN-SUFFIX,hdslb.com,Policy
 DOMAIN-SUFFIX,im9.com,Policy
+DOMAIN-SUFFIX,smtcdns.net,Policy
 # Blizzard
 DOMAIN-SUFFIX,battle.net,Policy
 DOMAIN-SUFFIX,battlenet.com,Policy
@@ -469,7 +481,6 @@ DOMAIN-SUFFIX,geetest.com,Policy
 DOMAIN-SUFFIX,geilicdn.com,Policy
 DOMAIN-SUFFIX,ghpym.com,Policy
 DOMAIN-SUFFIX,godic.net,Policy
-DOMAIN-SUFFIX,gravatar.com,Policy
 DOMAIN-SUFFIX,guazi.com,Policy
 DOMAIN-SUFFIX,gwdang.com,Policy
 DOMAIN-SUFFIX,gzlzfm.com,Policy
@@ -505,6 +516,8 @@ DOMAIN-SUFFIX,kugou.com,Policy
 DOMAIN-SUFFIX,lancdns.com,Policy
 DOMAIN-SUFFIX,landiannews.com,Policy
 DOMAIN-SUFFIX,lanzou.com,Policy
+DOMAIN-SUFFIX,lanzoui.com,Policy
+DOMAIN-SUFFIX,lanzoux.com,Policy
 DOMAIN-SUFFIX,lemicp.com,Policy
 DOMAIN-SUFFIX,letitfly.me,Policy
 DOMAIN-SUFFIX,linkedin.com,Policy
@@ -538,7 +551,6 @@ DOMAIN-SUFFIX,onlinedown.net,Policy
 DOMAIN-SUFFIX,oracle.com,Policy
 DOMAIN-SUFFIX,oschina.net,Policy
 DOMAIN-SUFFIX,ourdvs.com,Policy
-DOMAIN-SUFFIX,overcast.fm,Policy
 DOMAIN-SUFFIX,paypal.com,Policy
 DOMAIN-SUFFIX,polyv.net,Policy
 DOMAIN-SUFFIX,qbox.me,Policy
@@ -575,6 +587,7 @@ DOMAIN-SUFFIX,soufunimg.com,Policy
 DOMAIN-SUFFIX,sspai.com,Policy
 DOMAIN-SUFFIX,startssl.com,Policy
 DOMAIN-SUFFIX,suning.com,Policy
+DOMAIN-SUFFIX,synology.com,Policy
 DOMAIN-SUFFIX,taihe.com,Policy
 DOMAIN-SUFFIX,th-sjy.com,Policy
 DOMAIN-SUFFIX,tianqi.com,Policy
@@ -593,7 +606,6 @@ DOMAIN-SUFFIX,umengcloud.com,Policy
 DOMAIN-SUFFIX,upyun.com,Policy
 DOMAIN-SUFFIX,uxengine.net,Policy
 DOMAIN-SUFFIX,videocc.net,Policy
-DOMAIN-SUFFIX,vmware.com,Policy
 DOMAIN-SUFFIX,wandoujia.com,Policy
 DOMAIN-SUFFIX,weather.com,Policy
 DOMAIN-SUFFIX,weico.cc,Policy

@@ -2,6 +2,7 @@ payload:
   # 直连列表
 
   # MyList
+  - DOMAIN-SUFFIX,13th.tech
   - DOMAIN-SUFFIX,423down.com
   - DOMAIN-SUFFIX,bokecc.com
   - DOMAIN-SUFFIX,chaipip.com
@@ -10,6 +11,9 @@ payload:
   - DOMAIN-SUFFIX,kaikeba.com
   - DOMAIN-SUFFIX,laomo.me
   - DOMAIN-SUFFIX,mpyit.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN-SUFFIX,qupu123.com
 
   # CN域名直连
   - DOMAIN-SUFFIX,cn
@@ -63,6 +67,7 @@ payload:
   - DOMAIN-SUFFIX,alibabacloud.com
   - DOMAIN-SUFFIX,alibabausercontent.com
   - DOMAIN-SUFFIX,alicdn.com
+  - DOMAIN-SUFFIX,alicloudccp.com
   - DOMAIN-SUFFIX,aliexpress.com
   - DOMAIN-SUFFIX,aliimg.com
   - DOMAIN-SUFFIX,alikunlun.com
@@ -72,6 +77,7 @@ payload:
   - DOMAIN-SUFFIX,aliyun.com
   - DOMAIN-SUFFIX,aliyuncdn.com
   - DOMAIN-SUFFIX,aliyuncs.com
+  - DOMAIN-SUFFIX,aliyundrive.com
   - DOMAIN-SUFFIX,amap.com
   - DOMAIN-SUFFIX,autonavi.com
   - DOMAIN-SUFFIX,dingtalk.com
@@ -110,13 +116,19 @@ payload:
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,acgvideo.com
   - DOMAIN-SUFFIX,b23.tv
+  - DOMAIN-SUFFIX,bigfun.cn
+  - DOMAIN-SUFFIX,bigfunapp.cn
   - DOMAIN-SUFFIX,biliapi.com
   - DOMAIN-SUFFIX,biliapi.net
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,bilibili.tv
   - DOMAIN-SUFFIX,biligame.com
   - DOMAIN-SUFFIX,biligame.net
   - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-SUFFIX,bilivideo.cn
   - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,im9.com
+  - DOMAIN-SUFFIX,smtcdns.net
 
   # Blizzard
   - DOMAIN-SUFFIX,battle.net
@@ -516,7 +528,6 @@ payload:
   - DOMAIN-SUFFIX,geilicdn.com
   - DOMAIN-SUFFIX,ghpym.com
   - DOMAIN-SUFFIX,godic.net
-  - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,guazi.com
   - DOMAIN-SUFFIX,gwdang.com
   - DOMAIN-SUFFIX,gzlzfm.com
@@ -552,6 +563,8 @@ payload:
   - DOMAIN-SUFFIX,lancdns.com
   - DOMAIN-SUFFIX,landiannews.com
   - DOMAIN-SUFFIX,lanzou.com
+  - DOMAIN-SUFFIX,lanzoui.com
+  - DOMAIN-SUFFIX,lanzoux.com
   - DOMAIN-SUFFIX,lemicp.com
   - DOMAIN-SUFFIX,letitfly.me
   - DOMAIN-SUFFIX,linkedin.com
@@ -585,7 +598,6 @@ payload:
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,oschina.net
   - DOMAIN-SUFFIX,ourdvs.com
-  - DOMAIN-SUFFIX,overcast.fm
   - DOMAIN-SUFFIX,paypal.com
   - DOMAIN-SUFFIX,polyv.net
   - DOMAIN-SUFFIX,qbox.me
@@ -622,6 +634,7 @@ payload:
   - DOMAIN-SUFFIX,sspai.com
   - DOMAIN-SUFFIX,startssl.com
   - DOMAIN-SUFFIX,suning.com
+  - DOMAIN-SUFFIX,synology.com
   - DOMAIN-SUFFIX,taihe.com
   - DOMAIN-SUFFIX,th-sjy.com
   - DOMAIN-SUFFIX,tianqi.com
@@ -640,7 +653,6 @@ payload:
   - DOMAIN-SUFFIX,upyun.com
   - DOMAIN-SUFFIX,uxengine.net
   - DOMAIN-SUFFIX,videocc.net
-  - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,wandoujia.com
   - DOMAIN-SUFFIX,weather.com
   - DOMAIN-SUFFIX,weico.cc

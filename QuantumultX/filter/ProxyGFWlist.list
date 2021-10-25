@@ -6,9 +6,9 @@ DOMAIN-SUFFIX,bit.no.com,Policy
 DOMAIN-SUFFIX,btlibrary.me,Policy
 DOMAIN-SUFFIX,cccat.io,Policy
 DOMAIN-SUFFIX,cloudcone.com,Policy
-DOMAIN-SUFFIX,dubox.com,Policy
 DOMAIN-SUFFIX,gameloft.com,Policy
 DOMAIN-SUFFIX,garena.com,Policy
+DOMAIN-SUFFIX,hoyolab.com,Policy
 DOMAIN-SUFFIX,inoreader.com,Policy
 DOMAIN-SUFFIX,ip138.com,Policy
 DOMAIN-SUFFIX,ping.pe,Policy
@@ -4330,7 +4330,6 @@ DOMAIN-SUFFIX,staticflickr.com,Policy
 DOMAIN-SUFFIX,statueofdemocracy.org,Policy
 DOMAIN-SUFFIX,stc.com.sa,Policy
 DOMAIN-SUFFIX,steamcommunity.com,Policy
-DOMAIN-SUFFIX,steampowered.com,Policy
 DOMAIN-SUFFIX,steel-storm.com,Policy
 DOMAIN-SUFFIX,steemit.com,Policy
 DOMAIN-SUFFIX,steganos.com,Policy
@@ -5613,9 +5612,6 @@ DOMAIN-SUFFIX,discord.gg,Policy
 DOMAIN-SUFFIX,discord.media,Policy
 DOMAIN-SUFFIX,discordapp.com,Policy
 DOMAIN-SUFFIX,discordapp.net,Policy
-# Dubox
-DOMAIN-SUFFIX,dubox.com,Policy
-DOMAIN-SUFFIX,duboxcdn.com,Policy
 # Facebook
 DOMAIN-SUFFIX,facebook.com,Policy
 DOMAIN-SUFFIX,fb.com,Policy
@@ -5762,10 +5758,7 @@ DOMAIN-SUFFIX,smartmailcloud.com,Policy
 # Steam
 DOMAIN-SUFFIX,fanatical.com,Policy
 DOMAIN-SUFFIX,humblebundle.com,Policy
-DOMAIN-SUFFIX,steam-chat.com,Policy
 DOMAIN-SUFFIX,steamcommunity.com,Policy
-DOMAIN-SUFFIX,steampowered.com,Policy
-DOMAIN-SUFFIX,steamstatic.com,Policy
 # TapTap
 DOMAIN-SUFFIX,tap.io,Policy
 DOMAIN-SUFFIX,taptap.tw,Policy
@@ -5789,6 +5782,9 @@ DOMAIN-SUFFIX,telesco.pe,Policy
 IP-CIDR,91.108.0.0/16,Policy
 IP-CIDR,109.239.140.0/24,Policy
 IP-CIDR,149.154.160.0/20,Policy
+# TeraBox
+DOMAIN-SUFFIX,terabox.com,Policy
+DOMAIN-SUFFIX,teraboxcdn.com,Policy
 # Whatsapp
 IP-CIDR,18.194.0.0/15,Policy
 IP-CIDR,34.224.0.0/12,Policy

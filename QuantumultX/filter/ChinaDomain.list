@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,mpyit.com,Policy
 DOMAIN-SUFFIX,msftconnecttest.com,Policy
 DOMAIN-SUFFIX,msftncsi.com,Policy
 DOMAIN-SUFFIX,qupu123.com,Policy
+DOMAIN-SUFFIX,pdfwifi.com,Policy
 # CN域名直连
 DOMAIN-SUFFIX,cn,Policy
 DOMAIN-SUFFIX,中国,Policy
@@ -111,7 +112,6 @@ DOMAIN-SUFFIX,bigfunapp.cn,Policy
 DOMAIN-SUFFIX,biliapi.com,Policy
 DOMAIN-SUFFIX,biliapi.net,Policy
 DOMAIN-SUFFIX,bilibili.com,Policy
-DOMAIN-SUFFIX,bilibili.tv,Policy
 DOMAIN-SUFFIX,biligame.com,Policy
 DOMAIN-SUFFIX,biligame.net,Policy
 DOMAIN-SUFFIX,bilivideo.com,Policy
@@ -276,20 +276,20 @@ DOMAIN-SUFFIX,playstationnetwork.com,Policy
 DOMAIN-SUFFIX,sony.com,Policy
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com,Policy
 # SteamCN
-DOMAIN-SUFFIX,csgo.wmsj.cn,Policy
-DOMAIN-SUFFIX,dl.steam.ksyna.com,Policy
-DOMAIN-SUFFIX,dota2.wmsj.cn,Policy
-DOMAIN-SUFFIX,st.dl.bscstorage.net,Policy
-DOMAIN-SUFFIX,st.dl.eccdnx.com,Policy
-DOMAIN-SUFFIX,st.dl.pinyuncloud.com,Policy
-DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net,Policy
 DOMAIN-SUFFIX,steamcontent.com,Policy
-DOMAIN-SUFFIX,steamgames.com,Policy
-DOMAIN-SUFFIX,steampowered.com.8686c.com,Policy
-DOMAIN-SUFFIX,steamstat.us,Policy
-DOMAIN-SUFFIX,steamstatic.com,Policy
 DOMAIN-SUFFIX,steamusercontent.com,Policy
-DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net,Policy
+DOMAIN-SUFFIX,steamchina.com,Policy
+DOMAIN,csgo.wmsj.cn,Policy
+DOMAIN,dota2.wmsj.cn,Policy
+DOMAIN,wmsjsteam.com,Policy
+DOMAIN,dl.steam.clngaa.com,Policy
+DOMAIN,dl.steam.ksyna.com,Policy
+DOMAIN,st.dl.bscstorage.net,Policy
+DOMAIN,st.dl.eccdnx.com,Policy
+DOMAIN,st.dl.pinyuncloud.com,Policy
+DOMAIN,steampipe.steamcontent.tnkjmec.com,Policy
+DOMAIN,steampowered.com.8686c.com,Policy
+DOMAIN,steamstatic.com.8686c.com,Policy
 # Tencent
 DOMAIN-SUFFIX,foxmail.com,Policy
 DOMAIN-SUFFIX,gtimg.com,Policy
@@ -397,7 +397,6 @@ IP-CIDR,221.226.128.146/32,Policy
 DOMAIN-SUFFIX,baomitu.com,Policy
 DOMAIN-SUFFIX,bootcss.com,Policy
 DOMAIN-SUFFIX,jiasule.com,Policy
-DOMAIN-SUFFIX,jsdelivr.net,Policy
 DOMAIN-SUFFIX,staticfile.org,Policy
 DOMAIN-SUFFIX,upaiyun.com,Policy
 # AccelerateDirectSites
@@ -520,7 +519,6 @@ DOMAIN-SUFFIX,lanzoui.com,Policy
 DOMAIN-SUFFIX,lanzoux.com,Policy
 DOMAIN-SUFFIX,lemicp.com,Policy
 DOMAIN-SUFFIX,letitfly.me,Policy
-DOMAIN-SUFFIX,linkedin.com,Policy
 DOMAIN-SUFFIX,lizhi.fm,Policy
 DOMAIN-SUFFIX,lizhi.io,Policy
 DOMAIN-SUFFIX,lizhifm.com,Policy
